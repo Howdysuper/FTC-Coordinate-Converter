@@ -1,0 +1,5 @@
+{
+  "name": "FTC Coordinate Converter",
+  "description": "A utility to convert coordinates between Pedro Pathing and Road Runner systems for FTC robotics.",
+  "requestFramePermissions": []
+}
